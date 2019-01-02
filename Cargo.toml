@@ -1,0 +1,9 @@
+[package]
+name = "vadb"
+version = "0.1.0"
+authors = ["notoria <notoria@users.noreply.github.com>"]
+
+[dependencies]
+glutin = "0.10"
+gl = "0.6.0"
+png = "*"
